@@ -190,7 +190,7 @@ on currently active view.
 
 ### On Any View:
 
-#### List everything
+#### :bulb: List everything
 
 Format: `list`
 
